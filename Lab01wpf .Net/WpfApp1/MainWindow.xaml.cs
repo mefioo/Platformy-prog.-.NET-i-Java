@@ -71,6 +71,7 @@ namespace Lab01
             TextBox2.Text = txt2;
             var img = ((System.Windows.Controls.Image)test.Children[2]).Source;
             imgPhoto.Source = img;
+            path = imgPhoto.Source.ToString();
         }
     }
 }
