@@ -1,0 +1,176 @@
+C:\Users\mpkon\Documents\LabNet\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\mpkon\Documents\LabNet\Lab01\bin\Debug\Lab01.exe
+C:\Users\mpkon\Documents\LabNet\Lab01\bin\Debug\Lab01.pdb
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\App.g.cs
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\MainWindow.baml
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab01.exe
+C:\Users\mpkon\Documents\LabNet\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\bin\Debug\Lab01.exe
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\App.g.cs
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab01.exe
+C:\Users\Andrze Gnatowski\Documents\LabNet\Lab03\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\bin\Debug\Lab01.exe
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\App.g.cs
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab01.exe
+C:\Users\Andrze Gnatowski\source\repos\Lab03\Lab01\obj\Debug\Lab01.pdb
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\bin\Debug\Lab01.exe.config
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\bin\Debug\Lab01.exe
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\bin\Debug\Lab01.pdb
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\MainWindow.g.cs
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\App.g.cs
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\MainWindow.baml
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab01.g.resources
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab01.exe
+\\DESKTOP-M9758MV\Users\mpkon\source\repos\Lab04\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\bin\Debug\Lab01.exe
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\App.g.cs
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab01.exe
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Dictionary1.baml
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\bin\Debug\Resources\asdfgh.bmp
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\obj\Debug\Dictionary2.baml
+C:\Users\Andrze Gnatowski\source\repos\Lab04\Lab01\bin\Debug\Resources\qsfdasfafasdfasdf.bmp
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\Resources\asdfgh.bmp
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\Resources\qsfdasfafasdfasdf.bmp
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\Weather.mdf
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\Weather_log.ldf
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\Lab01.exe
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\EntityFramework.dll
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\EntityFramework.xml
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\App.g.cs
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab01_Content.g.cs
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab03.csproj.CopyComplete
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab01.exe
+C:\Users\Student235734\Downloads\DotNet (1)\Lab01\obj\Debug\Lab01.pdb
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\Weather.mdf
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\Weather_log.ldf
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\Lab01.exe.config
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\Lab01.exe
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\Lab01.pdb
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\EntityFramework.dll
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\EntityFramework.xml
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\MainWindow.g.cs
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\App.g.cs
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab01_Content.g.cs
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\MainWindow.baml
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab01.g.resources
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab03.csproj.CopyComplete
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab01.exe
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\obj\Debug\Lab01.pdb
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\OxyPlot.dll
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\OxyPlot.Wpf.dll
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\OxyPlot.pdb
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\OxyPlot.xml
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\OxyPlot.Wpf.pdb
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\OxyPlot.Wpf.xml
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\LiveCharts.dll
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\LiveCharts.Wpf.dll
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\LiveCharts.pdb
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\LiveCharts.xml
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\LiveCharts.Wpf.pdb
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\LiveCharts.Wpf.xml
+E:\Studia\C#\DO PRACY DZIAŁA\Lab01\bin\Debug\LiveCharts.Geared.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\Weather.mdf
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\Weather_log.ldf
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\Lab01.exe.config
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\Lab01.exe
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\Lab01.pdb
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\EntityFramework.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\LiveCharts.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\LiveCharts.Geared.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\LiveCharts.Wpf.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\OxyPlot.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\OxyPlot.Wpf.dll
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\EntityFramework.xml
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\LiveCharts.pdb
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\LiveCharts.xml
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\LiveCharts.Wpf.pdb
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\LiveCharts.Wpf.xml
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\OxyPlot.pdb
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\OxyPlot.xml
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\OxyPlot.Wpf.pdb
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\bin\Debug\OxyPlot.Wpf.xml
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab03.csprojAssemblyReference.cache
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\MainWindow.g.cs
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\App.g.cs
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab01_Content.g.cs
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\MainWindow.baml
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab01.g.resources
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab03.csproj.GenerateResource.cache
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab03.csproj.CopyComplete
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab01.exe
+E:\Studia\C#\Platformy-prog.-.NET-i-Java\Project for 01.05\Lab01\obj\Debug\Lab01.pdb
