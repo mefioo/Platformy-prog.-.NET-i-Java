@@ -1,0 +1,83 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab01"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns:Entity_Data_Modells="clr-namespace:Lab01.Entity_Data_Modells" xmlns:oxy="http://oxyplot.org/wpf" x:Class="Lab01.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1397.6" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="weatherEntryViewSource" d:DesignSource="{d:DesignInstance {x:Type Entity_Data_Modells:WeatherEntry}, CreateList=True}"/>
+        <CollectionViewSource x:Key="weatherEntitiesViewSource" d:DesignSource="{d:DesignInstance {x:Type Entity_Data_Modells:WeatherEntities}, CreateList=True}"/>
+        <CollectionViewSource x:Key="weatherEntitiesWeatherEntriesViewSource" Source="{Binding WeatherEntries, Source={StaticResource weatherEntitiesViewSource}}"/>
+        <CollectionViewSource x:Key="personViewSource" d:DesignSource="{d:DesignInstance {x:Type local:Person}, CreateList=True}"/>
+        <CollectionViewSource x:Key="productViewSource" d:DesignSource="{d:DesignInstance {x:Type Entity_Data_Modells:Product}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid Margin="0,0,23.4,0.4" RenderTransformOrigin="0.5,0.519">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="42*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListBox Margin="20,36,9.8,20" ItemsSource="{Binding Items}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel x:Name="Panel" Orientation="Horizontal" IsEnabled="True" MouseLeftButtonDown="Panel_MouseLeftButtonDown">
+                        <TextBlock x:Name="Textblock1" Text="{Binding Text1}" Width="100"/>
+                        <TextBlock x:Name="Textblock2" Text="{Binding Text2}" Width="100"/>
+                        <Image Source='{Binding Text3}' Width="50" Height="50"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:Name="addNewPersonButton" Content="Add texts" Grid.Column="1" HorizontalAlignment="Left" Margin="301.2,359,0,0" VerticalAlignment="Top" Width="75" Click="AddNewPersonButton_Click" Height="19"/>
+        <TextBox x:Name="TextBox2" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="31.2,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="31.2,315,0,0" TextWrapping="Wrap" Text="Second text" VerticalAlignment="Top" RenderTransformOrigin="0.303,0.573" Width="83" Height="16"/>
+        <TextBox x:Name="TextBox1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="31.2,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="31.2,271,0,0" TextWrapping="Wrap" Text="First text" VerticalAlignment="Top" Width="75" Height="16"/>
+        <Border BorderBrush="Black" BorderThickness="1" Grid.Column="1" HorizontalAlignment="Left" Height="246" Margin="31.2,20,0,0" VerticalAlignment="Top" Width="253">
+            <Image Grid.Column="1" x:Name="imgPhoto"/>
+        </Border>
+        <Button x:Name="Loadbtn" Content="Load" Grid.Column="1" HorizontalAlignment="Left" Margin="301.2,246,0,0" VerticalAlignment="Top" Width="75" Click="Loadbtn_Click" Height="20"/>
+        <TextBox x:Name="Textbox3" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="31.2,433,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="Textblock3" Grid.Column="1" HorizontalAlignment="Left" Margin="31.2,417,0,0" TextWrapping="Wrap" Text="Number of data" VerticalAlignment="Top" Height="16" Width="120"/>
+        <Button x:Name="Button2" Content="Add async" Grid.Column="1" HorizontalAlignment="Left" Margin="151.2,433,0,0" VerticalAlignment="Top" Width="75" Click="Button2_Click" Height="23" />
+        <Button x:Name="Load_data" Content="Load the weather data" Grid.Column="1" HorizontalAlignment="Left" Margin="31.2,469,0,0" VerticalAlignment="Top" Width="200" Click="Load_data_Click" Height="19"/>
+        <ProgressBar x:Name="weatherDataProgressBar" Grid.Column="1" HorizontalAlignment="Left" Height="17" Margin="31.2,488,0,0" VerticalAlignment="Top" Width="200"/>
+        <TextBlock x:Name="weatherDataTextBlock" Grid.Column="1" HorizontalAlignment="Left" Margin="31.2,488,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273" Height="16"/>
+        <Grid Grid.Column="1" HorizontalAlignment="Left" Height="484" Margin="415.2,20,0,0" VerticalAlignment="Top" Width="274">
+            <TextBox x:Name ="Place" HorizontalAlignment="Left" Height="24" Margin="123,28,0,0" TextWrapping="Wrap" Text="Warsaw" VerticalAlignment="Top" Width="90"/>
+            <TextBox x:Name="Temp" HorizontalAlignment="Left" Height="21" Margin="123,69,0,0" TextWrapping="Wrap" Text="15" VerticalAlignment="Top" Width="90" />
+            <TextBlock HorizontalAlignment="Left" Height="24" Margin="23,28,0,0" TextWrapping="Wrap" Text="Place:" VerticalAlignment="Top" Width="50"/>
+            <TextBlock HorizontalAlignment="Left" Height="21" Margin="23,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"><Run Text="Temperature"/><Run Text=":"/><LineBreak/><Run/></TextBlock>
+            <DataGrid x:Name="weatherEntryDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource weatherEntryViewSource}}" Margin="10,206,35,36" RowDetailsVisibilityMode="VisibleWhenSelected" SelectionChanged="WeatherEntryDataGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn x:Name="cityColumn1" Binding="{Binding City}" Header="City" Width="SizeToHeader"/>
+                    <DataGridTextColumn x:Name="idColumn1" Binding="{Binding Id}" Header="Id" Width="SizeToHeader"/>
+                    <DataGridTextColumn x:Name="temperatureColumn1" Binding="{Binding Temperature}" Header="Temperature" Width="SizeToHeader"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button Content="Add new data" HorizontalAlignment="Left" Margin="83,158,0,0" VerticalAlignment="Top" Width="130" Click="Button_Click"/>
+            <TextBox x:Name="Idtext" HorizontalAlignment="Left" Height="23" Margin="123,109,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="90"/>
+            <TextBlock HorizontalAlignment="Left" Margin="23,110,0,0" TextWrapping="Wrap" Text="Record number" VerticalAlignment="Top" Height="22" Width="95"/>
+            <TextBlock HorizontalAlignment="Left" Margin="15,453,0,0" TextWrapping="Wrap" Text="City Name:" VerticalAlignment="Top"/>
+        </Grid>
+        <TextBox x:Name ="City_search" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="31.2,527,0,0" TextWrapping="Wrap" Text="Warsaw" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="31.2,509,0,0" TextWrapping="Wrap" Text="City Name" VerticalAlignment="Top"/>
+        <Button x:Name="CityWet" Content="Download data for city" Grid.Column="1" HorizontalAlignment="Left" Margin="169.2,527,0,0" VerticalAlignment="Top" Width="135" Click="City_download" Height="23"/>
+        <TextBox x:Name="goglego" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="31.2,394,0,0" TextWrapping="Wrap" Text="smile icon" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="31.2,373,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="What to search:"/>
+        <TextBox x:Name="cityplot" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="427.6,490,0,0" TextWrapping="Wrap" Text="Warsaw" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Plot" Grid.Column="1" HorizontalAlignment="Left" Margin="570.6,494,0,0" VerticalAlignment="Top" Width="75" Click="Plotit"/>
+        <lvc:CartesianChart x:Name="mychartt"
+                            DisableAnimations="True"
+                            Series="{Binding Series}" 
+                            DataTooltip="{x:Null}"
+                            Zoom="Xy" Grid.Column="1" Margin="671.6,331,23,64"/>
+        <TextBlock x:Name="plottitle" Grid.Column="1" HorizontalAlignment="Left" Margin="792.6,297,0,0" Width="auto" TextWrapping="Wrap" Text="Plot title" VerticalAlignment="Top"/>
+
+    </Grid>
+
+</Window>
